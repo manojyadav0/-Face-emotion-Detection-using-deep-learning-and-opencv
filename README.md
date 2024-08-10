@@ -27,7 +27,15 @@ Prerequisites:
 Ensure you have the following installed:
 
 Python 3.x: The programming language used for the project.
+
+
 OpenCV: A library for computer vision tasks.
+
+
 TensorFlow: An end-to-end open-source platform for machine learning.
+
+
 NumPy: A library for numerical computations in Python.
+
+
 Matplotlib: A library for creating static, animated, and interactive visualizations in Python
