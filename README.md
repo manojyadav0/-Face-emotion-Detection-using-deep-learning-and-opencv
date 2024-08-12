@@ -1,5 +1,4 @@
-Welcome to the Face Recognition Program repository! This project leverages advanced facial recognition algorithms using TensorFlow and OpenCV to analyze and identify individuals from input images by comparing their facial features with a trained dataset. The program is designed to provide high accuracy and efficiency, making it suitable for various applications such as security, authentication, and more.
-
+Welcome to the Face Recognition Program repository! This project leverages advanced facial recognition algorithms using deep learning and OpenCV. The project involved training a model with LBPH algorithm to detect and classify emotions from facial expressions, achieving accurate emotion recognition through real-time video processing.
 
 Project has the following stages:
 
