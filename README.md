@@ -1,4 +1,4 @@
-Welcome to the Face Recognition Program repository! This project leverages advanced facial recognition algorithms using MAchine learning and OpenCV. The project involved training a model with LBPH algorithm to detect and classify emotions from facial expressions, achieving accurate emotion recognition through real-time video processing.
+Welcome to the Face Recognition Program repository! This project leverages advanced facial recognition algorithms using Machine learning and OpenCV. The project involved training a model with LBPH algorithm to detect and classify emotions from facial expressions, achieving accurate emotion recognition through real-time video processing.
 
 Project has the following stages:
 
