@@ -2,12 +2,19 @@ Welcome to the Face Recognition Program repository! This project leverages advan
 
 Project has the following stages:
 ▶️Define Problem: Set the project goal and identify input/output (e.g., classify emotions from images).
+
 ▶️Data Collection & Preprocessing: Gather data, clean it, and split it into training and test sets.
+
 ▶️Choose Model: Select an algorithm (e.g., LBPH for emotion detection).
+
 ▶️Train Model: Feed training data into the model to learn patterns.
+
 ▶️Evaluate: Test on a separate dataset and check accuracy, precision, etc.
+
 ▶️Tune & Improve: Adjust parameters and features for better performance.
+
 ▶️Deploy: Integrate into a production environment.
+
 ▶️Maintain: Update the model as more data becomes available
 
 
